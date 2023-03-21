@@ -1,3 +1,12 @@
+# Jetbrains
+.idea/
+
+# Visual Studio
+.vscode/
+
+# MacBook
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
