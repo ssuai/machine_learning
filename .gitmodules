@@ -1,0 +1,3 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/ssuai/machine_learning_data
