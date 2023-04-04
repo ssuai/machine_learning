@@ -11,4 +11,4 @@
 
 # Notebooks
 * Lab 1. [Intro](./lab1_intro.ipynb)
-
+* Lab 2. Linear regression (Ch. 3): [statsmodels version](), [scikit-learn version]()
