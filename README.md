@@ -16,3 +16,7 @@
 * 2-2. [scikit-learn version](./lab2_linear_regression_scikit-learn.ipynb)
 ### Lab 3. [Classification](./lab3_classification.ipynb) (Ch. 4)
 ### Lab 4. [Resampling methods](./lab4_resampling.ipynb) (Ch. 5)
+### Lab 5. Model selection (Ch. 6): 
+* 5-1. [subset selection](./lab5-1_subset_selection.ipynb), 
+* 5-2. [ridge regression and lasso](./lab5-2_ridge_regression_and_lasso.ipynb)
+* 5-3. [PCR and PLS](./lab5-3_PCR_and_PLS.ipynb)
