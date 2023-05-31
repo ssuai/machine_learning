@@ -27,7 +27,7 @@
 * 5-3. [PCR and PLS](./lab5-3_PCR_and_PLS.ipynb)
 
 ### Lab 6. Unsupervised learning (Ch. 12): 
-* 6-1. [PCA](./lab6-1_PCA.ipynb), 
+* 6-1. [PCA](./lab6-1_PCA.ipynb)
 * 6-2. [clustering](./lab6-2_clustering.ipynb)
 * 6-3. [NCI60 data](./lab6-3_NCI60.ipynb)
 
