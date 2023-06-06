@@ -31,3 +31,4 @@
 * 6-2. [clustering](./lab6-2_clustering.ipynb)
 * 6-3. [NCI60 data](./lab6-3_NCI60.ipynb)
 
+### Lab 7. [SVM](./lab7_SVM.ipynb) (Ch. 9)
